@@ -1,7 +1,7 @@
 import { handleSubmit } from './js/formHandler';
-import { chekForName } from './js/nameChecker';
+import { checkForName } from './js/nameChecker';
 
-console.log(chekForName);
+console.log(checkForName);
 
 
 alert('hi');
